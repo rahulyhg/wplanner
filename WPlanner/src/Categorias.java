@@ -5,6 +5,6 @@
 public enum Categorias {
 	Musica, Banquete, Planificacion, Fotografia, Ceremonia, Tramites,
 	Invitaciones, Detalles, Flores, Transportes, Joyeria, Belleza, LunaMiel, 
-	ListaBodas, Traje, Vestido, Complementos, Otros
+	ListaBodas, Traje, Vestido, Complementos, Otros, Varios
  
 }
